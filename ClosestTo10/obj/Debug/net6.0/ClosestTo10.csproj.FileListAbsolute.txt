@@ -1,0 +1,15 @@
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\bin\Debug\net6.0\ClosestTo10.exe
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\bin\Debug\net6.0\ClosestTo10.deps.json
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\bin\Debug\net6.0\ClosestTo10.runtimeconfig.json
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\bin\Debug\net6.0\ClosestTo10.dll
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\bin\Debug\net6.0\ClosestTo10.pdb
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\obj\Debug\net6.0\ClosestTo10.csproj.AssemblyReference.cache
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\obj\Debug\net6.0\ClosestTo10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\obj\Debug\net6.0\ClosestTo10.AssemblyInfoInputs.cache
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\obj\Debug\net6.0\ClosestTo10.AssemblyInfo.cs
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\obj\Debug\net6.0\ClosestTo10.csproj.CoreCompileInputs.cache
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\obj\Debug\net6.0\ClosestTo10.dll
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\obj\Debug\net6.0\refint\ClosestTo10.dll
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\obj\Debug\net6.0\ClosestTo10.pdb
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\obj\Debug\net6.0\ClosestTo10.genruntimeconfig.cache
+C:\Users\Sharp\RiderProjects\ClosestTo10\ClosestTo10\obj\Debug\net6.0\ref\ClosestTo10.dll
